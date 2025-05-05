@@ -1,0 +1,4 @@
+# requirements.txt
+
+streamlit>=1.10.0   # Core framework for the web app
+PyMuPDF>=1.18.0     # PDF processing library (fitz)
